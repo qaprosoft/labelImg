@@ -22,13 +22,6 @@ by `ImageNet <http://www.image-net.org/>`__.
 Installation
 ------------------
 
-Download prebuilt binaries
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-
--  `Windows & Linux <http://tzutalin.github.io/labelImg/>`__
-
--  OS X. Binaries for OS X are not yet available. Help would be appreciated. At present, it must be `built from source <#os-x>`__.
-
 Build from source
 ~~~~~~~~~~~~~~~~~
 
@@ -141,7 +134,7 @@ Create pre-defined classes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You can edit the
-`data/predefined\_classes.txt <https://github.com/tzutalin/labelImg/blob/master/data/predefined_classes.txt>`__
+`data/predefined\_classes.txt <https://github.com/qaprosoft/labelImg/blob/master/data/predefined_classes.txt>`__
 to load pre-defined classes
 
 Hotkeys
