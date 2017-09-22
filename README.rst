@@ -77,14 +77,14 @@ Windows
 
 Download and setup `Python 2.6 or
 later <https://www.python.org/downloads/windows/>`__,
-`PyQt4 <https://www.riverbankcomputing.com/software/pyqt/download>`__
+`PyQt5 <https://www.riverbankcomputing.com/software/pyqt/download>`__
 and `install lxml <http://lxml.de/installation.html>`__.
 
 Open cmd and go to `labelImg <#labelimg>`__ directory
 
 .. code::
 
-    pyrcc4 -o resources.py resources.qrc
+    pyrcc5 -o resources.py resources.qrc
     python labelImg.py
     python labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
 
