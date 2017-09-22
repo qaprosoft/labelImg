@@ -1,5 +1,6 @@
-dog
-person
-cat
-tv
-car
+button
+checkbox
+label
+radio
+select
+text_field
